@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tis:home|Door43 (tis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tis|d43-tis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tis/archive/master.zip|d43-tis.zip]]
+
+**Recent Changes**
+{{changes>ns = tis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tis|Ethnologue data]]
+
